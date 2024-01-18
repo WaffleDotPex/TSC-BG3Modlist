@@ -13,7 +13,7 @@ _The Sword Coast_ is larger attempt to bring not only Quality of Life improvemen
 
 #### More Information
 
-If you are interested in examining a complete list of the mods in this modlist, [go here.](https://loadorderlibrary.com/lists/venture-forth)
+If you are interested in examining a complete list of the mods in this modlist, [go here.](https://loadorderlibrary.com/lists/the-sword-coast)
 
 ### Requirements
 
@@ -77,7 +77,7 @@ You can just remove the _The Sword Coast_ folder.
 
 ## Contact
 
-I am regularly available on [my discord server](https://discord.gg/jolly-coop).
+TBD
 
 For more information about me, as well as ways to show your appreciation for my work, visit https://cacophony.me
 
