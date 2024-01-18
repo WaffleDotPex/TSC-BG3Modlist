@@ -2,6 +2,7 @@
 
 ### THIS DOCUMENT MUST BE FOLLOWED FOR THE LIST TO WORK PROPERLY.
 
+![Tifa](images/TSC_Oilpainting_babydargon.png)
 
 # THE SWORD COAST
 
